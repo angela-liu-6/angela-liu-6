@@ -8,3 +8,5 @@ I'm a [Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Hobbies/Interest: Classical and popular music, arithmetic books, currently in the process of learning the chess game.  
 
+------
+last updated: 2025-09-31
