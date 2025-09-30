@@ -6,7 +6,7 @@ I'm a [Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/
 
 - 📫 How to reach me: [Email](angela.liu.6@outlook.com)
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Hobbies/Interest: Classical and popular music, arithmetic books, currently in the process of learning the chess game.  
+- ⚡ Hobbies/Interest: Classical and popular music, arithmetic books, and in the process of learning the chess game.  
 
 ------
 last updated: 2025-09-30
