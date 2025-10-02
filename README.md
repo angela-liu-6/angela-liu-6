@@ -4,7 +4,7 @@
 
 I'm a [Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/) student at Imperial College London, currently building more theoretical grounds of **Data Science** and **Machine Learning**. I love using statistical and programming toolkits to solve real-word problems and innovate the old statistical methodology where it is necessary. Before coming to London, I studied biostatistics and was an applied statistician for the Breast Cancer Surgery Team at Cornell University. 
 
-- 📫 How to reach me: [Email](angela.liu.6@outlook.com)
+- 📫 How to reach me: [Email](angela.liu.6@outlook.com), [LinkedIn](https://www.linkedin.com/in/angela-liu-stats-ds/)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Hobbies/Interest: Classical and popular music, arithmetic books, and in the process of learning the chess game.  
 
